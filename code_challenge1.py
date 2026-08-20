@@ -1,0 +1,3 @@
+hannah = "\t\t\t\t\t\t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t\t\t\t\t\t\t* \t\t* \n \t\t\t\t\t\t\t\t\t\t\t* \t\t\t\t* \n \t\t\t\t\t\t\t\t\t\t* \t\t\t\t\t\t* \n \t\t\t\t\t\t\t\t\t* \t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t\t\t* \t\t\t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t\t* \t\t\t\t\t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t* \t\t\t\t\t\t\"HI MY NAME IS\" \t\t\t\t\t\t* \n \t\t\t\t\t* \t\t\t\t\t\t\t\"MARK ANDREI LOZABIA\" \t\t\t\t\t\t\t* \n \t\t\t\t\t\t* \t\t\t\t\t\t\t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t\t* \t\t\t\t\t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t\t\t* \t\t\t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t\t\t\t* \t\t\t\t\t\t\t\t* \n \t\t\t\t\t\t\t\t\t\t* \t\t\t\t\t\t* \n \t\t\t\t\t\t\t\t\t\t\t* \t\t\t\t* \n \t\t\t\t\t\t\t\t\t\t\t\t* \t\t* \n \t\t\t\t\t\t\t\t\t\t\t\t\t*"
+
+print(hannah) 
