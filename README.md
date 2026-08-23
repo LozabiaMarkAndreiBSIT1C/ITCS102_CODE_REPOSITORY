@@ -1,2 +1,3 @@
 # ITCS102_CODE_REPOSITORY
-Kaka gawa ko lang po sir sa tnc. Thankyou po.
+LOZABIA, MARK ANDREI 
+STUDENT ID: 026A 14598
