@@ -1,13 +1,13 @@
 age = int(input("Enter your age: "))
-is_employed = input("Are you employed? (True/Leave blank if False): ") == "True"
+is_employed = input("Are you employed? (True/Leave blank if False): ") == "True")
 credit_score = float(input("Enter your credit score: "))
 annual_income = float(input("Enter your annual income: "))
-has_collateral = input("Do you have collateral? (True/Leave blank if False): ") == "True"
+has_collateral = input("Do you have collateral? (True/Leave blank if False): ") == "True")
 
 if age >= 21 and is_employed:
 	print("You meet the baseline requirements for a loan.")
 
-	if credit_score >= 700:
+	if credit_score >= 750:
 		print("You have a high credit score.")
 		if annual_income >= 100000:
 			base_rate = 4.5
