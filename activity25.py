@@ -12,3 +12,9 @@ taga_triangle(23)
 
 print(sum(30,2))
 print(sum(14, 3)* 100)
+
+def my_factorial(number)
+    fact = 1
+    for x in range (number, 0, -1):
+        fact *= x
+    return fact
